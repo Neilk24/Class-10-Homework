@@ -1,6 +1,6 @@
-x = int(input("Enter the number you want as the base: "))
-y = int(input("Enter the number you want as the exponent: "))
+m = int(input("Enter the number you want as the base: "))
+n = int(input("Enter the number you want as the exponent: "))
 
-z = x**y
+x = m**n
 
-print("Your answer is", z)
+print("Your answer is", x)
